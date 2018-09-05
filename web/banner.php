@@ -1,1 +1,1 @@
-<iframe src="https://rylcotv.herokuapp.com/banner.php" style="border:0px #ffffff none;" name="App" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="100%" width="100%" allowfullscreen></iframe>
+<a href="https://play.google.com/store/apps/details?id=com.rylco.recargalo1" target="_blank"><img src="https://rylcotv.herokuapp.com/recargalo.png" alt="Recargas Claro" width="320px" height="50px"></a>
