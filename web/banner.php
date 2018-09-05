@@ -1,1 +1,1 @@
-<script type="text/javascript" src="http://ad.leadbolt.net/show_app_ad.js?section_id=918175365"></script>
+<iframe src="https://rylcotv.herokuapp.com/banner.php" style="border:0px #ffffff none;" name="App" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="100%" width="100%" allowfullscreen></iframe>
