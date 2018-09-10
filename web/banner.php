@@ -1,1 +1,1 @@
-<script type="text/javascript" src="http://ad.leadbolt.net/show_app_ad.js?section_id=918175365"></script>
+<a href="https://www.facebook.com/Roderick.D.Zapata/photos/a.154049841780015/481146405737022/" target="_blank"><img src="https://rylcotv.herokuapp.com/admcdonald.png" alt="Cafe Gratis" width="350px" height="50px"></a>
