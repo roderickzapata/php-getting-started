@@ -1,1 +1,1 @@
-<a href="https://www.facebook.com/Roderick.D.Zapata/photos/a.154049841780015/481146405737022/" target="_blank"><img src="https://rylcotv.herokuapp.com/admcdonald.png" alt="Cafe Gratis" width="350px" height="50px"></a>
+<a href="https://play.google.com/store/apps/details?id=com.rylco.recargalo1" target="_blank"><img src="https://rylcotv.herokuapp.com/recargalo.png" alt="Recargas Claro" width="350px" height="50px"></a>
