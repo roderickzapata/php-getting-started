@@ -1,1 +1,1 @@
-<script type="text/javascript" src="http://ad.leadbolt.net/show_app_ad.js?section_id=774239303"></script>
+<a href="http://www.youtube.com/subscription_center?add_user=roderickzapata" target="_blank"><img src="https://rylcotv.herokuapp.com/recargalo.png" alt="Recargas Claro" width="350px" height="50px"></a>
