@@ -65,7 +65,7 @@ print("\n");
 else{
 	function sendMessage() {
     $content      = array(
-        "en" => '$custom'
+        "en" => $custom
     );
     $hashes_array = array();
     array_push($hashes_array, array(
