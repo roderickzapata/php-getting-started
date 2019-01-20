@@ -5,7 +5,7 @@ if ($custom == null) {
 
 curl_setopt($ch, CURLOPT_URL, "https://onesignal.com/api/v1/notifications");
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-curl_setopt($ch, CURLOPT_POSTFIELDS, "{\"app_id\": \"f55e0ba5-3d08-4a0c-8a22-c7148ce4f66b\",\n\"contents\": {\"en\": \"Nuevo Pedido\"},\n\"included_segments\": [\"Subscribed Users\"]}");
+curl_setopt($ch, CURLOPT_POSTFIELDS, "{\"app_id\": \"f55e0ba5-3d08-4a0c-8a22-c7148ce4f66b\",\n\"contents\": {\"en\": \"Nuevo Reporte Disponible\"},\n\"included_segments\": [\"Subscribed Users\"]}");
 curl_setopt($ch, CURLOPT_POST, 1);
 
 $headers = array();
